@@ -13,4 +13,4 @@ https://github.com/user-attachments/assets/553c8421-1ab2-405b-9db0-541d619fca46
 ## Requirements
 IOS - 17+
 Swift 5.5+
-Xcode 15+
+Xcode 16+
